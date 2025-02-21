@@ -8,6 +8,7 @@ function Cart() {
   const totalAmount = cartItems.reduce((total, item) => total + item.price * item.quantity, 0);
 
   return (
+    
     <div className="cart-page">
       <Navbar />
       <h1>Plants</h1>
