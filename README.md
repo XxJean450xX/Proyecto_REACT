@@ -60,4 +60,8 @@ Este proyecto está bajo la licencia **MIT**.
 
 ---
 
+<<<<<<< HEAD
 💚 _Desarrollado con amor por [Tu Nombre]_
+=======
+💚 _Desarrollado con amor por [Tu Nombre]_
+>>>>>>> deb6ad8 (prueba)
